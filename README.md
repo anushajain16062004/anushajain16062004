@@ -1,7 +1,8 @@
 ### Hi there and welcome to my github profile 👋
-I’m Anusha Jain and I’m currently learning Web Dev and DSA 🌱
-📫 How to reach me anushajain1606@gmail.com...
-😄 Pronouns: She/Her...
+---
+-I’m Anusha Jain and I’m currently learning Web Dev and DSA 🌱
+- How to reach me anushajain1606@gmail.com...
+-😄 Pronouns: She/Her...
 ---
 ### What do i do?
 
@@ -11,7 +12,7 @@ I’m Anusha Jain and I’m currently learning Web Dev and DSA 🌱
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="C++" src="https://img.shields.io/badge/cpp-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
@@ -23,7 +24,7 @@ I’m Anusha Jain and I’m currently learning Web Dev and DSA 🌱
   <a href="https://www.instagram.com/anushajain1606/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href=https://www.linkedin.com/in/anusha-jain-049253253/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/anusha-jain-049253253/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
