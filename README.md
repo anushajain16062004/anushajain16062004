@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anusha Jain</h1>
-<h3 align="center">I am currently learning Web dev and DSA.</h3>
+<h3 align="center">I'm a B.Tech CSE 3rd year student at NSUT, New Delhi. I like to code and develop things: )</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png">
 
 
