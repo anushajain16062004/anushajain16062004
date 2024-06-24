@@ -29,6 +29,10 @@
 
 ---
 
+### Github stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alekspopovic&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Aleks+Popovic's+GitHub+Stats&show_icons=true" />
+
 <!---
 anushajain16062004/anushajain16062004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
