@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15628402-Working-on-a-Project/attachments/7418795?mode=media">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushajain16062004&label=Profile%20views&color=0e75b6&style=flat" alt="anushajain" /> </p>
+
 
 
 - 🌱 I’m currently learning **Web Dev and DSA**
