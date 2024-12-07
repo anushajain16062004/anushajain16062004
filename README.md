@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anusha Jain</h1>
+<!---<h1 align="center">Hi 👋, I'm Anusha Jain</h1>
 <h3 align="center">I'm a B.Tech CSE 3rd year student at NSUT, New Delhi. I like to code and develop things: )</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png">
 
@@ -26,6 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushajain16062004&show_icons=true&locale=en&theme=tokyonight" alt="anushajain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushajain16062004&&theme=tokyonight" alt="anushajain" /></p>
+--->
 
 <!---
 anushajain16062004/anushajain16062004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
